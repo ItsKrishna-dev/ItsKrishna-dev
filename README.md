@@ -1,10 +1,12 @@
 <div align="center">
-  
-#  Krishna Chaurasia
+<div align="center">
 
-### AI Engineer | Agentic AI Specialist | Multi-Agent Systems Architect
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=65&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=950&height=110&lines=KRISHNA+CHAURASIA" alt="Krishna Chaurasia" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Autonomous+Systems;Orchestrating+Multi-Agent+Workflows;Transforming+Research+into+Production" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+Agentic+AI+Specialist;Multi-Agent+Systems+Architect;Building+Intelligent+Autonomous+Systems" alt="Typing SVG" />
+
+</div>
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-chaurasia-4925b62b7)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ItsKrishna-dev)
