@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🚀 Krishna Chaurasia
+#  Krishna Chaurasia
 
 ### AI Engineer | Agentic AI Specialist | Multi-Agent Systems Architect
 
