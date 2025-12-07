@@ -54,58 +54,76 @@ class AIEngineer:
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🧠 Personality Prediction from Tweets
-**Tech:** Python | NLP | Twitter API | Gemini API
+<sub>**Python | NLP | Twitter API | Gemini API**</sub>
 
-🎯 **85%+ accuracy** target (surpassing 70% benchmarks)  
-🔐 OAuth-based Twitter data extraction  
-⚡ Real-time personality analysis with AI-generated insights  
-🎨 Custom NLP architecture with advanced feature engineering
+> Designing a cutting-edge personality prediction system that analyzes live Twitter data with 85%+ accuracy.
+
+**Key Features:**
+-  Surpassing 70% industry benchmarks
+-  Secure OAuth-based data extraction
+-  Real-time AI-powered insights
+-  Advanced NLP architecture
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-00D9FF?style=flat-square&logo=github)](https://github.com/ItsKrishna-dev/Personality_Prediction_From_Social_Media)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 💼 AI-Powered Sales Query Interface
-**Tech:** Python | SQL | Gemini API
+<sub>**Python | SQL | Gemini API**</sub>
 
-📊 Natural language to SQL conversion  
-✨ **90% query accuracy** with Gemini integration  
-📝 Query history tracking & session management  
-👥 Empowering non-technical users with database access
+> Empowering non-technical users to interact with databases through natural language queries.
+
+**Key Features:**
+-  Natural language to SQL conversion
+-  90% query accuracy
+-  Session management & history
+-  User-friendly interface
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-00D9FF?style=flat-square&logo=github)](https://github.com/ItsKrishna-dev/AI_Powered_Sales_Query_Interface)
 
 </td>
 </tr>
+
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎙️ SpeakSense Voice Assistant
-**Tech:** Python | SpeechRecognition | Google Translate API
+<sub>**Python | SpeechRecognition | Google Translate API**</sub>
 
-🌍 **100+ languages** supported  
-😊 Emotion-aware speech synthesis  
-🎯 **90% recognition accuracy** in optimal environments  
-🔄 Real-time sentiment analysis & dynamic translation
+> Multilingual voice assistant with emotion-aware speech synthesis and real-time translation.
+
+**Key Features:**
+-  100+ languages supported
+-  Emotion-aware synthesis
+-  90% recognition accuracy
+-  Dynamic translation
+
+![GitHub](https://img.shields.io/badge/GitHub-View_Code-00D9FF?style=flat-square&logo=github)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 Multi-Agent Systems (Ongoing)
-**Tech:** LangGraph | CrewAI | AutoGen
+### 🤖 Multi-Agent Systems
+<sub>**LangGraph | CrewAI | AutoGen**</sub>
 
-🔗 Collaborative agent orchestration  
-🧩 Complex task decomposition  
-📈 Enhanced RAG pipeline implementations  
-🔬 Research-driven autonomous workflows
+> Building autonomous AI workflows through collaborative multi-agent orchestration.
+
+**Key Features:**
+-  Collaborative orchestration
+-  Complex task decomposition
+-  Enhanced RAG pipelines
+-  Research-driven workflows
+
+![Status](https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square)
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
 
 ## 🛠️ Technical Arsenal
 
