@@ -13,28 +13,7 @@
 </div>
 
 <div align="center">
-  <svg width="100%" height="25" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" viewBox="0 0 1440 25">
-    <defs>
-      <linearGradient id="rainbow1" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#4B0082;stop-opacity:1" />
-        <stop offset="14.3%" style="stop-color:#0000FF;stop-opacity:1" />
-        <stop offset="28.6%" style="stop-color:#00FFFF;stop-opacity:1" />
-        <stop offset="42.9%" style="stop-color:#00FF00;stop-opacity:1" />
-        <stop offset="57.2%" style="stop-color:#FFFF00;stop-opacity:1" />
-        <stop offset="71.5%" style="stop-color:#FF7F00;stop-opacity:1" />
-        <stop offset="85.8%" style="stop-color:#FF0000;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#FF00FF;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    <g>
-      <path d="M0,12.5 C120,8.5 240,8.5 360,12.5 C480,16.5 600,16.5 720,12.5 C840,8.5 960,8.5 1080,12.5 C1200,16.5 1320,16.5 1440,12.5 L1440,25 L0,25 Z" fill="url(#rainbow1)">
-        <animateTransform attributeName="transform" type="translate" values="0 0;1440 0;0 0" dur="20s" repeatCount="indefinite"/>
-      </path>
-      <path d="M-1440,12.5 C-1320,8.5 -1200,8.5 -1080,12.5 C-960,16.5 -840,16.5 -720,12.5 C-600,8.5 -480,8.5 -360,12.5 C-240,16.5 -120,16.5 0,12.5 L0,25 L-1440,25 Z" fill="url(#rainbow1)">
-        <animateTransform attributeName="transform" type="translate" values="0 0;1440 0;0 0" dur="20s" repeatCount="indefinite"/>
-      </path>
-    </g>
-  </svg>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
 ## 💫 About Me
@@ -66,28 +45,7 @@ class AIEngineer:
 ```
 
 <div align="center">
-  <svg width="100%" height="25" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" viewBox="0 0 1440 25">
-    <defs>
-      <linearGradient id="rainbow2" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#4B0082;stop-opacity:1" />
-        <stop offset="14.3%" style="stop-color:#0000FF;stop-opacity:1" />
-        <stop offset="28.6%" style="stop-color:#00FFFF;stop-opacity:1" />
-        <stop offset="42.9%" style="stop-color:#00FF00;stop-opacity:1" />
-        <stop offset="57.2%" style="stop-color:#FFFF00;stop-opacity:1" />
-        <stop offset="71.5%" style="stop-color:#FF7F00;stop-opacity:1" />
-        <stop offset="85.8%" style="stop-color:#FF0000;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#FF00FF;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    <g>
-      <path d="M0,12.5 C120,8.5 240,8.5 360,12.5 C480,16.5 600,16.5 720,12.5 C840,8.5 960,8.5 1080,12.5 C1200,16.5 1320,16.5 1440,12.5 L1440,25 L0,25 Z" fill="url(#rainbow2)">
-        <animateTransform attributeName="transform" type="translate" values="0 0;1440 0;0 0" dur="20s" repeatCount="indefinite"/>
-      </path>
-      <path d="M-1440,12.5 C-1320,8.5 -1200,8.5 -1080,12.5 C-960,16.5 -840,16.5 -720,12.5 C-600,8.5 -480,8.5 -360,12.5 C-240,16.5 -120,16.5 0,12.5 L0,25 L-1440,25 Z" fill="url(#rainbow2)">
-        <animateTransform attributeName="transform" type="translate" values="0 0;1440 0;0 0" dur="20s" repeatCount="indefinite"/>
-      </path>
-    </g>
-  </svg>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
 ## 🎯 Featured Projects
@@ -144,28 +102,7 @@ class AIEngineer:
 </table>
 
 <div align="center">
-  <svg width="100%" height="25" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" viewBox="0 0 1440 25">
-    <defs>
-      <linearGradient id="rainbow3" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#4B0082;stop-opacity:1" />
-        <stop offset="14.3%" style="stop-color:#0000FF;stop-opacity:1" />
-        <stop offset="28.6%" style="stop-color:#00FFFF;stop-opacity:1" />
-        <stop offset="42.9%" style="stop-color:#00FF00;stop-opacity:1" />
-        <stop offset="57.2%" style="stop-color:#FFFF00;stop-opacity:1" />
-        <stop offset="71.5%" style="stop-color:#FF7F00;stop-opacity:1" />
-        <stop offset="85.8%" style="stop-color:#FF0000;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#FF00FF;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    <g>
-      <path d="M0,12.5 C120,8.5 240,8.5 360,12.5 C480,16.5 600,16.5 720,12.5 C840,8.5 960,8.5 1080,12.5 C1200,16.5 1320,16.5 1440,12.5 L1440,25 L0,25 Z" fill="url(#rainbow3)">
-        <animateTransform attributeName="transform" type="translate" values="0 0;1440 0;0 0" dur="20s" repeatCount="indefinite"/>
-      </path>
-      <path d="M-1440,12.5 C-1320,8.5 -1200,8.5 -1080,12.5 C-960,16.5 -840,16.5 -720,12.5 C-600,8.5 -480,8.5 -360,12.5 C-240,16.5 -120,16.5 0,12.5 L0,25 L-1440,25 Z" fill="url(#rainbow3)">
-        <animateTransform attributeName="transform" type="translate" values="0 0;1440 0;0 0" dur="20s" repeatCount="indefinite"/>
-      </path>
-    </g>
-  </svg>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
 ## 🛠️ Technical Arsenal
@@ -198,38 +135,10 @@ class AIEngineer:
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 <div align="center">
-  <svg width="100%" height="25" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" viewBox="0 0 1440 25">
-    <defs>
-      <linearGradient id="rainbow4" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#4B0082;stop-opacity:1" />
-        <stop offset="14.3%" style="stop-color:#0000FF;stop-opacity:1" />
-        <stop offset="28.6%" style="stop-color:#00FFFF;stop-opacity:1" />
-        <stop offset="42.9%" style="stop-color:#00FF00;stop-opacity:1" />
-        <stop offset="57.2%" style="stop-color:#FFFF00;stop-opacity:1" />
-        <stop offset="71.5%" style="stop-color:#FF7F00;stop-opacity:1" />
-        <stop offset="85.8%" style="stop-color:#FF0000;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#FF00FF;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    <g>
-      <path d="M0,12.5 C120,8.5 240,8.5 360,12.5 C480,16.5 600,16.5 720,12.5 C840,8.5 960,8.5 1080,12.5 C1200,16.5 1320,16.5 1440,12.5 L1440,25 L0,25 Z" fill="url(#rainbow4)">
-        <animateTransform attributeName="transform" type="translate" values="0 0;1440 0;0 0" dur="20s" repeatCount="indefinite"/>
-      </path>
-      <path d="M-1440,12.5 C-1320,8.5 -1200,8.5 -1080,12.5 C-960,16.5 -840,16.5 -720,12.5 C-600,8.5 -480,8.5 -360,12.5 C-240,16.5 -120,16.5 0,12.5 L0,25 L-1440,25 Z" fill="url(#rainbow4)">
-        <animateTransform attributeName="transform" type="translate" values="0 0;1440 0;0 0" dur="20s" repeatCount="indefinite"/>
-      </path>
-    </g>
-  </svg>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
 ## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItsKrishna-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsKrishna-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
-
-</div>
 
 <div align="center">
   
@@ -242,30 +151,8 @@ class AIEngineer:
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ItsKrishna-dev&bg_color=0D1117&color=00D9FF&line=00D9FF&point=C9D1D9&area=true&hide_border=true&custom_title=Contribution%20Graph&update=1)
 
 </div>
-
 <div align="center">
-  <svg width="100%" height="25" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" viewBox="0 0 1440 25">
-    <defs>
-      <linearGradient id="rainbow5" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#4B0082;stop-opacity:1" />
-        <stop offset="14.3%" style="stop-color:#0000FF;stop-opacity:1" />
-        <stop offset="28.6%" style="stop-color:#00FFFF;stop-opacity:1" />
-        <stop offset="42.9%" style="stop-color:#00FF00;stop-opacity:1" />
-        <stop offset="57.2%" style="stop-color:#FFFF00;stop-opacity:1" />
-        <stop offset="71.5%" style="stop-color:#FF7F00;stop-opacity:1" />
-        <stop offset="85.8%" style="stop-color:#FF0000;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#FF00FF;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    <g>
-      <path d="M0,12.5 C120,8.5 240,8.5 360,12.5 C480,16.5 600,16.5 720,12.5 C840,8.5 960,8.5 1080,12.5 C1200,16.5 1320,16.5 1440,12.5 L1440,25 L0,25 Z" fill="url(#rainbow5)">
-        <animateTransform attributeName="transform" type="translate" values="0 0;1440 0;0 0" dur="20s" repeatCount="indefinite"/>
-      </path>
-      <path d="M-1440,12.5 C-1320,8.5 -1200,8.5 -1080,12.5 C-960,16.5 -840,16.5 -720,12.5 C-600,8.5 -480,8.5 -360,12.5 C-240,16.5 -120,16.5 0,12.5 L0,25 L-1440,25 Z" fill="url(#rainbow5)">
-        <animateTransform attributeName="transform" type="translate" values="0 0;1440 0;0 0" dur="20s" repeatCount="indefinite"/>
-      </path>
-    </g>
-  </svg>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
 ## 🎯 Current Mission
@@ -289,28 +176,7 @@ class AIEngineer:
 </div>
 
 <div align="center">
-  <svg width="100%" height="25" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" viewBox="0 0 1440 25">
-    <defs>
-      <linearGradient id="rainbow6" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#4B0082;stop-opacity:1" />
-        <stop offset="14.3%" style="stop-color:#0000FF;stop-opacity:1" />
-        <stop offset="28.6%" style="stop-color:#00FFFF;stop-opacity:1" />
-        <stop offset="42.9%" style="stop-color:#00FF00;stop-opacity:1" />
-        <stop offset="57.2%" style="stop-color:#FFFF00;stop-opacity:1" />
-        <stop offset="71.5%" style="stop-color:#FF7F00;stop-opacity:1" />
-        <stop offset="85.8%" style="stop-color:#FF0000;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#FF00FF;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    <g>
-      <path d="M0,12.5 C120,8.5 240,8.5 360,12.5 C480,16.5 600,16.5 720,12.5 C840,8.5 960,8.5 1080,12.5 C1200,16.5 1320,16.5 1440,12.5 L1440,25 L0,25 Z" fill="url(#rainbow6)">
-        <animateTransform attributeName="transform" type="translate" values="0 0;1440 0;0 0" dur="20s" repeatCount="indefinite"/>
-      </path>
-      <path d="M-1440,12.5 C-1320,8.5 -1200,8.5 -1080,12.5 C-960,16.5 -840,16.5 -720,12.5 C-600,8.5 -480,8.5 -360,12.5 C-240,16.5 -120,16.5 0,12.5 L0,25 L-1440,25 Z" fill="url(#rainbow6)">
-        <animateTransform attributeName="transform" type="translate" values="0 0;1440 0;0 0" dur="20s" repeatCount="indefinite"/>
-      </path>
-    </g>
-  </svg>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
 ## 💭 Philosophy
@@ -325,32 +191,9 @@ class AIEngineer:
 **📚 Learning** from every iteration and research breakthrough
 
 </div>
-
 <div align="center">
-  <svg width="100%" height="25" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" viewBox="0 0 1440 25">
-    <defs>
-      <linearGradient id="rainbow7" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#4B0082;stop-opacity:1" />
-        <stop offset="14.3%" style="stop-color:#0000FF;stop-opacity:1" />
-        <stop offset="28.6%" style="stop-color:#00FFFF;stop-opacity:1" />
-        <stop offset="42.9%" style="stop-color:#00FF00;stop-opacity:1" />
-        <stop offset="57.2%" style="stop-color:#FFFF00;stop-opacity:1" />
-        <stop offset="71.5%" style="stop-color:#FF7F00;stop-opacity:1" />
-        <stop offset="85.8%" style="stop-color:#FF0000;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#FF00FF;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    <g>
-      <path d="M0,12.5 C120,8.5 240,8.5 360,12.5 C480,16.5 600,16.5 720,12.5 C840,8.5 960,8.5 1080,12.5 C1200,16.5 1320,16.5 1440,12.5 L1440,25 L0,25 Z" fill="url(#rainbow7)">
-        <animateTransform attributeName="transform" type="translate" values="0 0;1440 0;0 0" dur="20s" repeatCount="indefinite"/>
-      </path>
-      <path d="M-1440,12.5 C-1320,8.5 -1200,8.5 -1080,12.5 C-960,16.5 -840,16.5 -720,12.5 C-600,8.5 -480,8.5 -360,12.5 C-240,16.5 -120,16.5 0,12.5 L0,25 L-1440,25 Z" fill="url(#rainbow7)">
-        <animateTransform attributeName="transform" type="translate" values="0 0;1440 0;0 0" dur="20s" repeatCount="indefinite"/>
-      </path>
-    </g>
-  </svg>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
-
 ## 📫 Let's Connect & Collaborate
 
 <div align="center">
@@ -367,31 +210,10 @@ class AIEngineer:
 
 </div>
 
-<div align="center">
-  <svg width="100%" height="25" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" viewBox="0 0 1440 25">
-    <defs>
-      <linearGradient id="rainbow8" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#4B0082;stop-opacity:1" />
-        <stop offset="14.3%" style="stop-color:#0000FF;stop-opacity:1" />
-        <stop offset="28.6%" style="stop-color:#00FFFF;stop-opacity:1" />
-        <stop offset="42.9%" style="stop-color:#00FF00;stop-opacity:1" />
-        <stop offset="57.2%" style="stop-color:#FFFF00;stop-opacity:1" />
-        <stop offset="71.5%" style="stop-color:#FF7F00;stop-opacity:1" />
-        <stop offset="85.8%" style="stop-color:#FF0000;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#FF00FF;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    <g>
-      <path d="M0,12.5 C120,8.5 240,8.5 360,12.5 C480,16.5 600,16.5 720,12.5 C840,8.5 960,8.5 1080,12.5 C1200,16.5 1320,16.5 1440,12.5 L1440,25 L0,25 Z" fill="url(#rainbow8)">
-        <animateTransform attributeName="transform" type="translate" values="0 0;1440 0;0 0" dur="20s" repeatCount="indefinite"/>
-      </path>
-      <path d="M-1440,12.5 C-1320,8.5 -1200,8.5 -1080,12.5 C-960,16.5 -840,16.5 -720,12.5 C-600,8.5 -480,8.5 -360,12.5 C-240,16.5 -120,16.5 0,12.5 L0,25 L-1440,25 Z" fill="url(#rainbow8)">
-        <animateTransform attributeName="transform" type="translate" values="0 0;1440 0;0 0" dur="20s" repeatCount="indefinite"/>
-      </path>
-    </g>
-  </svg>
-</div>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 <div align="center">
 
 ### ⭐ From [ItsKrishna-dev](https://github.com/ItsKrishna-dev) with passion for AI innovation
