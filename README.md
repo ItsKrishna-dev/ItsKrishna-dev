@@ -161,9 +161,9 @@ class AIEngineer:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
+    
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ItsKrishna-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&hide_longest_streak=true&hide_current_streak=true)](https://git.io/streak-stats)
-
+    
 </div>
 
 <div align="center">
